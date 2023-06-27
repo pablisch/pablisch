@@ -2,7 +2,7 @@
 
 Hello, I'm Pablo, a Makers Academy graduate, a lover of making and lifelong learner.
 
-💻 <span style="color:white">        </span>  I’m currently working on my portfolio
+💻 <pre style="color:white">        </pre>  I’m currently working on my portfolio
 
 🌱 <span style="color:white">        </span>  I’m currently practising React
 

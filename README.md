@@ -3,7 +3,9 @@
 Hello, I'm Pablo, a Makers Academy graduate, a lover of making and lifelong learner.
 
 💻 <span style="color:white"> - </span>  I’m currently working on my portfolio
+
 🌱 <span style="color:white"> - </span>  I’m currently practising React
+
 📨 <span style="color:white"> - </span>  How to reach me: pablito@me.com
 
 ## Languages and Tools:

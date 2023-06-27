@@ -2,9 +2,9 @@
 
 Hello, I'm Pablo, a Makers Academy graduate, a lover of making and lifelong learner.
 
-- $~$ 💻 $~~$ I’m currently working on my portfolio
+<!-- - $~$ 💻 $~~$ I’m currently working on my portfolio
 - $~$ 🌱 $~~$ I’m currently practising React
-- $~$ 📨 $~~$ How to reach me: pablito@me.com
+- $~$ 📨 $~~$ How to reach me: pablito@me.com -->
 
 ## Languages and Tools:
 <p align="left">

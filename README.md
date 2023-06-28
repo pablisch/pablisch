@@ -92,7 +92,7 @@ _focussed on Test Driven Development (TDD), Object Oriented Programming (OOP), A
 
 **Precision:** Fulfilling the complex needs of a diverse range of children and colleagues in an unpredicatable environment and above all the extreme safeguarding requirements of Forest School has been ample preparation for Makers group engineering projects working with varied peers and managing complex codebases.
 
-**User focus:** Reflective teaching is a purely user focussed process and a natural progression from years of furniture design and craftsmanship where beutiful, functional creations are designed for a specific user experience.
+**User focus:** Reflective teaching is a purely user focussed process and a natural progression from years of furniture design and craftsmanship where beautiful, functional creations are designed for a specific user experience.
 
 ---
 

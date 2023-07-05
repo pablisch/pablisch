@@ -47,7 +47,7 @@ I am a Full Stack Developer, [Makers](https://makers.tech/) graduate and gold me
 | [FarceBook](https://farcebook-9uwa.onrender.com) ([repo](https://github.com/pablisch/farce-book)) | A Facebook clone social media web app | MongoDB, Express, React, Node, Jest, Cypress |              
 | [Lair BnB](https://github.com/pablisch/lair-bnb) | A Lord of the Rings themed Air BnB clone web app | Ruby, Sinatra, Postgres, RSpec |
 | [Chitter](https://chitter-7pam.onrender.com) ([repo](https://github.com/pablisch/chitter-challenge)) | A Twitter clone social media web app | Ruby, Sinatra, Postgres, RSpec |              
-| [Knot Very Useful](https://pablisch.github.io/knot-very-useful/) ([repo](https://github.com/pablisch/knot-very-useful)) | A responsive, educational knot tying website | JavaScript, HTML, CSS | 
+| [Knot Very Useful](https://pablisch.github.io/knot-very-useful/) ([repo](https://github.com/pablisch/knot-very-useful)) | A responsive, educational knot-tying website | JavaScript, HTML, CSS | 
 
 ---
 

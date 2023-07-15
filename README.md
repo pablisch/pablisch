@@ -40,7 +40,7 @@ I am a Full Stack Developer, [Makers](https://makers.tech/) graduate and gold me
 ---
 
 ## Projects 
-[Click here to see more](https://pablisch.github.io/my-app-projects/)
+[Click here for separate project page](https://pablisch.github.io/my-app-projects/)
 
 | Name  | Description  | Tech/tools |
 | ----------------------- | ----------------- | ----------------- |

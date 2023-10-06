@@ -162,6 +162,8 @@ _Craftsperson involved in a barn conversion project in Teyssieu, Lot, France_
 - Planning and Pedagogy for Coding in Primary (2017, with Jane Waite)
 - Micro:bit Hands-On Workshop (2017, with Tig Williams)
 #### Contributions to the coding community
+- Volunteer Software Engineer at [Pensano.dev](https://pensano.dev/)
+- Volunteer coach at [codebar.io](https://codebar.io/), breaking barriers into Software Development for under-represented groups
 - A series of educational resources written for the Raspberry Pi Foundation Informal Learning Team including:
   - [Crumble Motor Buggy](https://projects.raspberrypi.org/en/projects/build-crumble-motor-buggy) ([GitHub repository](https://github.com/raspberrypilearning/build-crumble-motor-buggy))
   - [Motors, robot buggies and Scratch 3](https://projects.raspberrypi.org/en/projects/motor-robot-buggy-scratch) ([GitHub repository](https://github.com/raspberrypilearning/motor-robot-buggy-scratch/tree/master))

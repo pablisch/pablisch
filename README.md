@@ -2,8 +2,8 @@
 
 Hello, I'm Pablo, a Makers Academy graduate, a lover of making and lifelong learner.
 
-- 💻  I’m currently working on a React AI meal plan generator site for [Pensano.dev](https://pensano.dev/)
-- 🌱  I’m currently learning Java. It's new to me and therfore exciting!
+- 💻  I’m currently working on a React AI [meal plan generator](https://github.com/Pensano-dev/meal-plan-generator) site for [Pensano.dev](https://pensano.dev/)
+- 🌱  I’m currently learning Java, Selenium and practising React, but not t the same time.
 - 📨  Reach me at pablito@me.com
 
 ## Languages and Tools:

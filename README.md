@@ -46,7 +46,7 @@ I am a Full Stack Developer, [Makers](https://makers.tech/) graduate and gold me
 | ----------------------- | ----------------- | ----------------- |
 | [The London Underground Phony Orchestra](https://lupo.onrender.com/) ([repo](https://github.com/pablisch/lupo)) | A generative music audio/visual web app based on London tube train arrivals   | React, Tone.js, Chart.js, Jest, Cypress |
 | [FarceBook](https://farcebook-9uwa.onrender.com) ([repo](https://github.com/pablisch/farce-book)) | A Facebook clone social media web app | MongoDB, Express, React, Node, Jest, Cypress |              
-| [Lair BnB](https://github.com/pablisch/lair-bnb) | A Lord of the Rings themed Air BnB clone web app | Ruby, Sinatra, Postgres, RSpec |
+| [Gallery](https://gallery-58b4.onrender.com/) ([repo](https://github.com/pablisch/gallery)) | A React social image gallery site using Masonry | MongoDB, Express, React, Node, Cloudinary, Masonry |
 | [Chitter](https://chitter-7pam.onrender.com) ([repo](https://github.com/pablisch/chitter-challenge)) | A Twitter clone social media web app | Ruby, Sinatra, Postgres, RSpec |              
 | [Knot Very Useful](https://pablisch.github.io/knot-very-useful/) ([repo](https://github.com/pablisch/knot-very-useful)) | A responsive, educational knot-tying website | JavaScript, HTML, CSS | 
 

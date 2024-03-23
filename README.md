@@ -3,8 +3,8 @@
 Hello, I'm Pablo, a Makers Academy graduate, a lover of making and lifelong learner.
 
 - 💻  I’m currently product managing and developing a React Native [Aura](https://github.com/Pensano-dev/aura-mobile-app) app for [Pensano.dev](https://pensano.dev/)
-- 🌱  I’m currently learning React Native and getting deeper into React.
-- 📨  Reach me at pablito@me.com
+- 🌱  I’m currently learning React Native, TypeScript, GraphQL and getting deeper into React.
+- 📨  Reach me at pablo.joyce@gmail.com
 
 ## Languages and Tools:
 <p align="left">
@@ -99,7 +99,13 @@ _focussed on Test Driven Development (TDD), Object Oriented Programming (OOP), A
 
 ---
 
-## Employment History
+## Work History
+
+**Pensano.dev** (Sept 2023 to present)
+_Product Manager and Software Engineer_
+- PM and dev for a React Native app for a startup in the mental health space
+- Responsible for the full lifecycle of the app and ensuring code quality and user experience
+- Leading a team of designers, developers and testers
 
 **The Devonshire Hill Nursery and Primary School, Haringey** (Jan 2017 to Dec 2022)
 _Forest School Leader, STEM lead and teacher_

@@ -38,7 +38,7 @@ Hello, I'm Pablo, a Makers Academy graduate, a lover of making and lifelong lear
 
 ## About me
 
-I am a Full Stack Developer, [Makers](https://makers.tech/) graduate and gold medal pillow fighting champion excited to unleash a lifelong love of learning and making on the unsuspecting world of software development. Along with a passion for 'how?', 'why?' and 'let's do it!', I bring a huge wealth of experience and skills from my previous iterations as an edge-of-space explorer, forest creator, primary STEM and computing lead, Forest School Leader and expert furniture craftsperson. [Curious? Click here](https://pablisch.github.io/cv-about-links/).
+I am a **Quality Engineer** and **Full Stack Developer**, [Makers](https://makers.tech/) graduate and gold medal pillow fighting champion excited to unleash a lifelong love of learning and making on the unsuspecting world of software development. Along with a passion for 'how?', 'why?' and 'let's do it!', I bring a huge wealth of experience and skills from my previous iterations as an edge-of-space explorer, forest creator, primary STEM and computing lead, Forest School Leader and expert furniture craftsperson. [Curious? Click here](https://pablisch.github.io/cv-about-links/).
 
 ---
 
@@ -47,9 +47,10 @@ I am a Full Stack Developer, [Makers](https://makers.tech/) graduate and gold me
 
 | Name  | Description  | Tech/tools |
 | ----------------------- | ----------------- | ----------------- |
+| [Portfolio](https://pablo-joyce.onrender.com/) ([repo](https://github.com/pablisch/portfolio-react)) | A work-in-progress portfolio site in React with an e2e test suite CI pipeline   | React, Vite, Java, Selenium, Gradle, GitHub Actions |
 | [The London Underground Phony Orchestra](https://lupo.onrender.com/) ([repo](https://github.com/pablisch/lupo)) | A generative music audio/visual web app based on London tube train arrivals   | React, Tone.js, Chart.js, Jest, Cypress |
 | [FarceBook](https://farcebook-9uwa.onrender.com) ([repo](https://github.com/pablisch/farce-book)) | A Facebook clone social media web app | MongoDB, Express, React, Node, Jest, Cypress |              
-| [Gallery](https://gallery-58b4.onrender.com/) ([repo](https://github.com/pablisch/gallery)) | A React social image gallery site using Masonry | MongoDB, Express, React, Node, Cloudinary, Masonry |
+| [Gallery](https://gallery-58b4.onrender.com/) ([repo](https://github.com/pablisch/gallery), [e2e test suite](https://github.com/pablisch/gallery-app-automation-test-suite)) | A React social image gallery site using Masonry | MongoDB, Express, React, Node, Cloudinary, Masonry |
 | [Eclipse Game Calculator](https://eclipse-battle-calculator.onrender.com/) ([repo](https://github.com/pablisch/eclipse-combat-calculator)) | A combat calculator for the Eclipse board game | React Vite |              
 | [Knot Very Useful](https://pablisch.github.io/knot-very-useful/) ([repo](https://github.com/pablisch/knot-very-useful)) | A responsive, educational knot-tying website | JavaScript, HTML, CSS | 
 
@@ -57,9 +58,15 @@ I am a Full Stack Developer, [Makers](https://makers.tech/) graduate and gold me
 
 ## Education
 
+### Makers Academy Quality Engineering Specialism (November 2023 to January 2024)
+_focussed on assuring quality through a wide range of testing and checking tools and techniques_
+- **Java**, **Selenium**, and a wide range of test tools, such as **Postman** & SonarQube. 
+- Using a range of testing methods, e.g. black-box, white-box, accessibility, performance, regression, user acceptance etc. 
+- An immersive two-week project quality testing a real-world app in development embedded in a software engineering team throughout the complete development lifecycle. 
+
 ### Makers Academy Software Development Bootcamp (February to May 2023)
 _focussed on Test Driven Development (TDD), Object Oriented Programming (OOP), Agile and XP practices, and learning to learn_
-- Ruby, JavaScript, Postgres, MERN, RSpec and Cypress technologies, amongst others
+- Ruby, **JavaScript**, Postgres, **MERN**, RSpec and Cypress technologies, amongst others
 - Version control, high-quality, clean code, and regular peer and external code reviews
 - Self-led study, daily pairing, group projects and solo challenges
 - Agile work practices throughout engineering projects with an emphasis on EQ

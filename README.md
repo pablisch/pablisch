@@ -47,7 +47,7 @@ I am a **Quality Engineer** and **Full Stack Developer**, [Makers](https://maker
 
 | Name  | Description  | Tech/tools |
 | ----------------------- | ----------------- | ----------------- |
-| [Portfolio](https://pablo-joyce.onrender.com/) ([repo](https://github.com/pablisch/portfolio-react)) | A work-in-progress portfolio site in React with an e2e test suite CI pipeline   | React, Vite, Java, Selenium, Gradle, GitHub Actions |
+| [Portfolio](https://pablo-joyce.onrender.com/) ([repo](https://github.com/pablisch/portfolio-react)) | A work-in-progress portfolio site in React with a Java/Selenium e2e test suite CI pipeline   | React, Vite, Java, Selenium, Gradle, GitHub Actions |
 | [The London Underground Phony Orchestra](https://lupo.onrender.com/) ([repo](https://github.com/pablisch/lupo)) | A generative music audio/visual web app based on London tube train arrivals   | React, Tone.js, Chart.js, Jest, Cypress |
 | [FarceBook](https://farcebook-9uwa.onrender.com) ([repo](https://github.com/pablisch/farce-book)) | A Facebook clone social media web app | MongoDB, Express, React, Node, Jest, Cypress |              
 | [Gallery](https://gallery-58b4.onrender.com/) ([repo](https://github.com/pablisch/gallery), [e2e test suite](https://github.com/pablisch/gallery-app-automation-test-suite)) | A React social image gallery site using Masonry | MongoDB, Express, React, Node, Cloudinary, Masonry |

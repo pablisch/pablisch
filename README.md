@@ -2,8 +2,8 @@
 
 Hello, I'm Pablo, a Makers Academy graduate, a lover of making and lifelong learner.
 
-- 💻  I’m currently product managing and developing a React Native [Aura](https://github.com/Pensano-dev/aura-mobile-app) app for [Pensano.dev](https://pensano.dev/)
-- 🌱  I’m currently learning React Native, TypeScript, GraphQL and getting deeper into React.
+- 💻  I’m currently working as a Software Engineer in Test for Orchestrating Identity and reworking my portfolio
+- 🌱  I’m currently practising TypeScript with React.
 - 📨  Reach me at pablo.joyce@gmail.com
 
 ## Languages and Technologies:

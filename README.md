@@ -111,6 +111,14 @@ _focussed on Test Driven Development (TDD), Object Oriented Programming (OOP), A
 
 ## Work History
 
+**Orchestrating Identity** (June 2024 to present)
+_Software Engineer in Test_
+- Quality Assurance for a digital identity verification SaaS startup focussed on excellence.
+- Agile development and strong communication in a small team of engineers working in multiple locations.
+- Supporting two frontend apps in React and Next.js and micro-services in Java and Kotlin.
+- Automated tests in BDD Cucumber and JavaScript.
+- Automated end to end, exploratory and manual testing in UI and API, in addition to overall quality assurance to produce an outstanding product.
+
 **Pensano.dev** (Sept 2023 to present)
 _Product Manager and Software Engineer_
 - PM and dev for a React Native app for a startup in the mental health space

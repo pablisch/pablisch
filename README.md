@@ -2,8 +2,8 @@
 
 Hello, I'm Pablo, a Makers Academy graduate, a lover of making and lifelong learner.
 
-- 💻  I’m currently working as a Software Engineer in Test for Orchestrating Identity, reworking my portfolio and building a universal CRUD client.
-- 🌱  I’m currently practising TypeScript with React, focussing on context.
+- 💻  I’m working as a Software Engineer in Test for Orchestrating Identity, and reworking my portfolio.
+- 🌱  I’m currently practising TypeScript with React, focussing on context while building a universal CRUD client.
 - 📨  Reach me at pablo.joyce@gmail.com
 
 ## Languages and Technologies:
